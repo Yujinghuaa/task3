@@ -1,0 +1,35 @@
+html{
+    font-size:62.5%;
+}
+body{margin:0;
+    padding:0;
+    background-color:#68cdd5;
+    color:#FFF }
+
+.back{
+    margin: 1rem 0 0 2rem;
+}
+.logo{
+    text-align:center;
+    margin: 40px 0 122px;
+}
+.main{
+    margin:0 10% 10rem;
+}
+.main p{
+    font-size: 2.7rem;
+
+    }
+.footer-left{float:left;
+    margin-left:8%;
+    text-align:center;}
+.footer-left{
+    font-size:1.9rem
+}
+.footer-right p{
+    font-size: 1.9rem;
+}
+.footer-right{
+    text-align:center;
+    float:right;
+    margin-right:8%; }
